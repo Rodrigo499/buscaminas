@@ -32,7 +32,7 @@ public class ExpeditionController {
     public String hello() {
 
         Expedition expedition = getExpedition();
-        return String.format("Buscaminas va a la expedicion: <br> Cordenadas en X: %s" +
+        return String.format("<h1>Buscaminas va a la expedicion</h1> <br> Cordenadas en X: %s" +
                 "<br>Cordenadas en Y: %s " +
                 "<br>Tamaño del deposito : %s", expedition.getX(), expedition.getY(), expedition.getTamano());
 
