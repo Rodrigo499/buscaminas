@@ -6,4 +6,4 @@ Buscador de depositos de agua congelada en Marte
 
 ![Imagen Insertada](/img/lubicuo.png?raw=true "Lenguaje Ubicuo")
 ## Context Bundle
-![Imagen Insertada](/img/contextB.png?raw=true "Lenguaje Ubicuo")
+![Imagen Insertada](/img/contextD.png?raw=true "Lenguaje Ubicuo")
